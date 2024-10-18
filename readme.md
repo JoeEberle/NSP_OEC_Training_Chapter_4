@@ -2,7 +2,7 @@
 Welcome to the solution **Nsp Oec Training Chapter 4** - an example for your projects
 
 National Ski Patrol - Outdoor Emergency Care chapter 4
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
